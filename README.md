@@ -25,7 +25,8 @@ BIENVENUE 🎉
 ‎ 📞Me contacter
 ‎📧 Email :  traoreissouf.t7@gmail.com
 ‎💼 GitHub :https://github.com/. traoreissouft7-ship-it
-‎📱 TikTok : Mr DURO [@tonpseudo](https://tiktok.com/@MrDURO
+‎📱 TikTok : Mr DURO
+https://tiktok.com/@MrDURO
 ‎
 ‎🌟 Chaque ligne de code est une marche vers mon futur🧑‍💻
 ‎
