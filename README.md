@@ -25,7 +25,7 @@ BIENVENUE 🎉
 ‎ 📞Me contacter
 ‎📧 Email :  traoreissouf.t7@gmail.com
 ‎💼 GitHub :https://github.com/. traoreissouft7-ship-it
-☎️Téléphone/WhatsApp:+225 0566378537
+☎️WhatsApp:+2250566378537
 ‎📱 TikTok : Mr DURO
 https://tiktok.com/@MrDURO
 ‎
