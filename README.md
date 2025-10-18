@@ -1,3 +1,5 @@
+BIENVENUE 🎉 
+
 ‎👋 Salut, moi c’est Traoré Issouf
 ‎‎🎓 Étudiant en Informatique Développement d’Applications (IDA)  à ESMA( Ecole de Spécialités Multimédia d'Abidjan ( Côte d'ivoire).  
 ‎💡 Passionné par le Développement web, la programmation en C, et tout ce qui touche à la technologie et à l’innovation.
