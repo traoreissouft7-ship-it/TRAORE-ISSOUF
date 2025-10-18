@@ -1,2 +1,31 @@
-# TRAORE-ISSOUF
-Étudiant en informatique développement d’applications.Passionné par le développement web et la programmation en C . Objectif : devenir développeur web full-stack ‎
+‎👋 Salut, moi c’est Traoré Issouf
+‎‎🎓 Étudiant en Informatique Développement d’Applications (IDA)  à ESMA( Ecole de Spécialités Multimédia d'Abidjan ( Côte d'ivoire).  
+‎💡 Passionné par le Développement web, la programmation en C, et tout ce qui touche à la technologie et à l’innovation.
+‎
+‎🧑‍💻 Ce que j’apprends actuellement
+‎- Langage C (bases, conditions, boucles, fonctions,...)
+‎- 🧠 Algorithmique et Logique de programmation
+‎- 🌐 HTML, CSS, JavaScript  pour le développement web
+‎- 🧩 Les bonnes pratiques du développement
+‎
+‎ 🧰 Technologies que j’utilise
+‎| Langage | Description |
+‎|----------|--------------|
+‎| 🟦 C   | Pour les programmes et projets en console |
+‎| 🌐 HTML / CSS | Pour les interfaces web |
+‎| ⚙️ JavaScript | Pour rendre les sites interactifs |
+‎| 🗃️ Git / GitHub | Pour la gestion de versions et projets collaboratifs |
+‎
+‎ 📂 Mes projets
+‎- 🔹Calculatrice en C
+‎- 🔹 Et bientôt : mon portfolio développeur web
+‎
+‎ 📞Me contacter
+‎📧 Email :  traoreissouf.t7@gmail.com
+‎💼 GitHub :https://github.com/. traoreissouft7-ship-it
+‎📱 TikTok : Mr DURO [@tonpseudo](https://tiktok.com/@MrDURO
+‎
+‎🌟 Chaque ligne de code est une marche vers mon futur🧑‍💻
+‎
+‎
+‎Merci🙏de visiter mon profil.
